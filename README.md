@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> Desarrollador Full Stack | Estudiante de Ingeniería de Software </h3>
-<h4 align="center">📍 6° Semestre - Universidad Técnica de Ambato</h4>
+<h4 align="center">📍 7° Semestre - Universidad Técnica de Ambato</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Josu-F1&label=Visitas+al+perfil&color=blueviolet&style=for-the-badge" alt="Josu-F1" />
